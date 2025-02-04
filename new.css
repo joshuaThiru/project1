@@ -1,0 +1,35 @@
+.sec2{
+    width: 100%;
+    height: 80vh;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/012/168/187/original/beautiful-sunset-on-the-beach-with-palm-tree-for-travel-and-vacation-free-photo.JPG");
+
+    
+}
+.container-fluid3{
+    width: 100%;
+    height: 50vh;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/012/168/187/original/beautiful-sunset-on-the-beach-with-palm-tree-for-travel-and-vacation-free-photo.JPG");
+    background-repeat: no-repeat ;
+    
+    
+}
+body{
+    overflow-x: hidden;     
+    width: 100%;
+}
+
+
+.part2{
+    height: fit-content;
+    width: fit-content;
+
+}
+
+    
+
+.img-fluid{
+    width: 100%;
+    height: 50vh;
+}
+
+
